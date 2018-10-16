@@ -6,7 +6,7 @@ public class TestTemplate {
 
         String s1 = new String();
         for (int i = 0; i < 3; i++) {
-            System.out.println();
+            System.out.println(i);
         }
 
     }
